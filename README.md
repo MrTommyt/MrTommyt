@@ -2,7 +2,7 @@
 ![Camilo - Backend & Data Engineer → Data Science](https://raw.githubusercontent.com/MrTommyt/MrTommyt/main/banner.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/camilob44)
+<!-- [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/camilob44) -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
@@ -75,9 +75,9 @@ Welcome to my GitHub profile. I'm a **Backend & Data Infrastructure Engineer** t
 
 ### Let's Connect
 
-- **Email:** YOUR_EMAIL
-- **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-- **Freelancer:** [@camilob44](https://www.freelancer.com/u/camilob44)
+- **Email:** benavidescamilo199@gmail.com
+- **LinkedIn:** [linkedin.com/in/camilobenavides-software-engineer](https://www.linkedin.com/in/camilobenavides-software-engineer/)
+<-- - **Freelancer:** [@camilob44](https://www.freelancer.com/u/camilob44) -->
 
 ---
 
