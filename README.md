@@ -1,9 +1,9 @@
 <!-- Banner: replace with your own image (recommended ~1584x396, same as LinkedIn banner size) -->
-![Camilo - Backend & Data Engineer → Data Science](https://raw.githubusercontent.com/MrTommyt/MrTommyt/main/banner.png)
+![Camilo - Backend & Data Engineer → Data Science](https://media.licdn.com/dms/image/v2/D4E16AQFBRRnWdKXg2A/profile-displaybackgroundimage-shrink_350_1400/B4EZ9As3PIJMAU-/0/1783496930562?e=1785369600&v=beta&t=rIt-LoHry1Mwp3TlclTB20M2KRXBoq4s1AdSXhU2mug)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-<!-- [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/camilob44) -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<!-- [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/camilob44) -->
 
 ---
 
