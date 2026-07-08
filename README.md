@@ -77,7 +77,7 @@ Welcome to my GitHub profile. I'm a **Backend & Data Infrastructure Engineer** t
 
 - **Email:** benavidescamilo199@gmail.com
 - **LinkedIn:** [linkedin.com/in/camilobenavides-software-engineer](https://www.linkedin.com/in/camilobenavides-software-engineer/)
-<-- - **Freelancer:** [@camilob44](https://www.freelancer.com/u/camilob44) -->
+<!-- **Freelancer:** [@camilob44](https://www.freelancer.com/u/camilob44) -->
 
 ---
 
